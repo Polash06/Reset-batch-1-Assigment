@@ -1,13 +1,44 @@
-.Banner{
-margin: 20px;
-  
+.Banner {
+  background-image: url("/resources/Banner\ Image.png");
+  height: 600px;
+  width: 1200px;
+  margin: 3rem auto;
+  padding: 2rem;
+  background-size: cover;
 }
-.BannerText{
-    margin-bottom: 100px;
- 
+.BannerText {
+  margin-bottom: 100px;
+  margin-left: 460px;
+   color: azure;
 }
-.Happy{
-   margin-left: 660px;
-   margin-top: 90px;
-   
+.text {
+  margin-left: 570px;
+  margin-top: 200px;
+  color: azure;
+}
+.Happy {
+  margin-left: 660px;
+  margin-top: 90px;
+  color: red;
+}
+.Our{
+    margin-left: 580px;
+    margin-top: 40px;
+    color: red;
+}
+.all{
+    margin-left: 590px;
+    margin-top: 40px;
+}
+.New-year{
+    margin-left: 300px;
+    margin-top: 40px;
+}
+.WelcomeTo{
+    background-image: url("/resources/Vectorrr.png");
+    height: 600px;
+    width: 1200px;
+    margin: 3rem auto;
+    padding: 2rem;
+    background-size: cover;
 }
