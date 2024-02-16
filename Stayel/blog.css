@@ -98,3 +98,42 @@ margin-top: 60px;
 .AllPlaceDateTime{
   margin-top: 95px;
 }
+.Main1{
+  display: flex;
+  margin-left: 40px;
+  gap: 150px;
+  margin-top: 150px;
+}
+.Forhad{
+  border: 12px solid red;
+  border-radius: 200px 200px;
+  width: 300px;
+ 
+}
+.red{
+  color: red;
+}
+.WHATIS{
+  margin-top: 100px;
+}
+.what{
+  margin-left: 550px;
+}
+.whatp{
+  margin-left: 540px;
+}
+.main2{
+  margin-left: 40px;
+}
+.Site{
+  margin-left: 400px;
+}
+.p{
+  margin-left: 440px;
+}
+.m{
+  margin-left: 320px;
+}
+.F{
+  margin-left: 550px;
+}
