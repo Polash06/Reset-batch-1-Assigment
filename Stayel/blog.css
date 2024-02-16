@@ -137,6 +137,10 @@ margin-top: 60px;
 .F{
   margin-left: 550px;
 }
+.MainHuk{
+  margin: 40px;
+  margin-top: 140px;
+}
 .main3{
   width: 200px;
   height: 300px;
@@ -144,20 +148,64 @@ margin-top: 60px;
   margin-top: 60px;
   margin-left: 40px;
 }
-/* .Rectangle2png{
-  margin-top: 40px;
-} */
 .Grup75{
-  margin-top: 110px;
   background-image: url("/resources/Rectangle\ 2.png");
-  width: 1300px;
   height: 200px;
+  width: 1200px;
+  margin: 4rem auto;
+  padding: 2rem;
+  background-size: cover;
 }
-/* .ppppp{
-  margin-left: 700px;
-  margin-bottom: 200px;
-} */
-/* .wittt{
-  margin-left: 50px;
-  margin-bottom: 600px;
-} */
+.FriestImage{
+  margin-left: 40px;
+  display: flex;
+  gap: 15px;
+  height: 400px;
+  width: 1500px;
+  background-size: cover;
+
+}
+.SecondImage{
+  margin-left: 40px;
+  display: flex;
+  gap: 15px;
+  margin-top: 20px;
+
+  height: 400px;
+  width: 1500px;
+  margin: 3rem auto;
+  padding: 2rem;
+  background-size: cover;
+}
+.Last2{
+  height: 480px;
+  width: 1220px;
+  margin: 4rem auto;
+  padding: 2rem;
+  margin-top: 200px;
+  background-size: cover;
+  background-color: antiquewhite;
+}
+.Group61{
+  margin-top: 60px;
+  margin-left: 520px;
+}
+.Subscribe{
+  margin-left: 450px;
+}
+.pTag{
+  margin-left: 300px;
+}
+.Ipsum{
+  margin-left: 410px;
+}
+.Input{
+  margin-top:30px;
+  margin-left:350px;
+}
+.lastInpute{
+ padding: 30px;
+ width: 500px;
+ border: 2px solid white;
+ border-radius: 60px;
+}
