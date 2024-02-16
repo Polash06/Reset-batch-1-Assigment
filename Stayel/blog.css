@@ -217,3 +217,31 @@ margin-top: 60px;
   border-radius: 8px;
   color: azure;
 }
+.Footer{
+  height: 480px;
+  width: 1450px;
+  margin-top: 100px;
+  background-size: cover;
+  background-color: black;
+}
+.last{
+  display: flex;
+  color: white;
+  gap: 600px;
+  margin-left: 100px;
+}
+.pppBig{
+  margin-top: 150px;
+}
+.Images{
+  display: flex;
+  gap: 15px;
+  margin-left: 500px;
+}
+.lastWork{
+  color: white;
+  display: flex;
+  gap: 800px;
+  margin-left: 100px;
+  margin-top: 30px;
+}
