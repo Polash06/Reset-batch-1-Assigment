@@ -4,6 +4,9 @@
   width: 1200px;
   margin: 3rem auto;
   padding: 2rem;
+  border-radius: 0%;
+  background-position: center;
+  background-repeat: no-repeat;
   background-size: cover;
 }
 .BannerText {
@@ -38,7 +41,55 @@
     background-image: url("/resources/Vectorrr.png");
     height: 600px;
     width: 1200px;
-    margin: 3rem auto;
+    margin: 4rem auto;
     padding: 2rem;
     background-size: cover;
+    /* flex-wrap: calc(2); */
+    
+}
+#Welcome{
+  color: azure;
+  /* margin-top: 200px; */
+}
+#Dolar{
+  color: azure;
+}
+.Group70{
+  margin-left: 890px;
+
+}
+.PlaceDateTime{
+  height: 400px;
+  width: 1200px;
+  margin: 4rem auto;
+  padding: 2rem;
+  background-size: cover;
+  background-color: antiquewhite;
+ 
+}
+.RedPlace{
+  color: red;
+  margin-left: 450px;
+}
+.RedDate{
+  color: red;
+  margin-left: 410px;
+}
+.RedTime{
+  color: red;
+  margin-left: 360px;
+}
+.BagraounRed{
+  background-color: red;
+  color: white;
+  border: 2px solid red;
+  border-radius: 5px;
+  width: 150px;
+  height: 40px;
+  padding: 10px;
+  margin-left: 520px;
+  margin-top: 10px;
+}
+.AllPlaceDateTime{
+  margin-top: 95px;
 }
