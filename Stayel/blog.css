@@ -137,3 +137,27 @@ margin-top: 60px;
 .F{
   margin-left: 550px;
 }
+.main3{
+  width: 200px;
+  height: 300px;
+  display: flex;
+  margin-top: 60px;
+  margin-left: 40px;
+}
+/* .Rectangle2png{
+  margin-top: 40px;
+} */
+.Grup75{
+  margin-top: 110px;
+  background-image: url("/resources/Rectangle\ 2.png");
+  width: 1300px;
+  height: 200px;
+}
+/* .ppppp{
+  margin-left: 700px;
+  margin-bottom: 200px;
+} */
+/* .wittt{
+  margin-left: 50px;
+  margin-bottom: 600px;
+} */
