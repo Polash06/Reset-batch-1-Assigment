@@ -44,19 +44,24 @@
     margin: 4rem auto;
     padding: 2rem;
     background-size: cover;
-    /* flex-wrap: calc(2); */
+    display: flex;
+    gap: 200px;
+    
     
 }
 #Welcome{
-  color: azure;
-  /* margin-top: 200px; */
+  color: azure; 
+ 
 }
 #Dolar{
   color: azure;
 }
 .Group70{
-  margin-left: 890px;
+margin-top: 60px;
 
+}
+.polash{
+  margin-top: 200px;
 }
 .PlaceDateTime{
   height: 400px;
