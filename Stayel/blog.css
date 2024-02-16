@@ -209,3 +209,11 @@ margin-top: 60px;
  border: 2px solid white;
  border-radius: 60px;
 }
+.Button{
+  background-color: red;
+  border: 2px solid red;
+  width: 90px;
+  height: 70px;
+  border-radius: 8px;
+  color: azure;
+}
