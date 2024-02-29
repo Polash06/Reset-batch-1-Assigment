@@ -1,5 +1,5 @@
 .Banner {
- background-image: url('/resources/Banner\ Image.png');
+ background-image: url('../resources/BannerImage.png');
   height: 600px;
   width: 1200px;
   margin: 3rem auto;
